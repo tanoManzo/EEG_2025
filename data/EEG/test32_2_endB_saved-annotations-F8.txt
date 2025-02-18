@@ -1,0 +1,4 @@
+# MNE-Annotations
+# orig_time : 2024-02-28 13:06:24
+# onset, duration, description
+2396.0057124910777,5.8895783012135325,BAD_
